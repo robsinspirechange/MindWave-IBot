@@ -1,0 +1,23 @@
+C:\Users\neurosky\Downloads\ThinkGear SDK for .NET\ThinkGear SDK for .NET\Sample Projects\HelloEEG_EX\HelloEEG\bin\Debug\ConsoleApplication.exe.config
+C:\Users\neurosky\Downloads\ThinkGear SDK for .NET\ThinkGear SDK for .NET\Sample Projects\HelloEEG_EX\HelloEEG\bin\Debug\ConsoleApplication.exe
+C:\Users\neurosky\Downloads\ThinkGear SDK for .NET\ThinkGear SDK for .NET\Sample Projects\HelloEEG_EX\HelloEEG\bin\Debug\ConsoleApplication.pdb
+C:\Users\neurosky\Downloads\ThinkGear SDK for .NET\ThinkGear SDK for .NET\Sample Projects\HelloEEG_EX\HelloEEG\bin\Debug\ThinkGear.dll
+C:\Users\neurosky\Downloads\ThinkGear SDK for .NET\ThinkGear SDK for .NET\Sample Projects\HelloEEG_EX\HelloEEG\bin\Debug\Jayrock.Json.dll
+C:\Users\neurosky\Downloads\ThinkGear SDK for .NET\ThinkGear SDK for .NET\Sample Projects\HelloEEG_EX\HelloEEG\bin\Debug\NLog.dll
+C:\Users\neurosky\Downloads\ThinkGear SDK for .NET\ThinkGear SDK for .NET\Sample Projects\HelloEEG_EX\HelloEEG\bin\Debug\NLog.xml
+C:\Users\neurosky\Downloads\ThinkGear SDK for .NET\ThinkGear SDK for .NET\Sample Projects\HelloEEG_EX\HelloEEG\obj\x86\Debug\HelloEEG.csprojResolveAssemblyReference.cache
+C:\Users\neurosky\Downloads\ThinkGear SDK for .NET\ThinkGear SDK for .NET\Sample Projects\HelloEEG_EX\HelloEEG\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\neurosky\Downloads\ThinkGear SDK for .NET\ThinkGear SDK for .NET\Sample Projects\HelloEEG_EX\HelloEEG\obj\x86\Debug\ConsoleApplication.pdb
+C:\Users\Manjul\Downloads\mdt-r2_5_5\mdt-r2_5_5\ThinkGear SDK for .NET\Sample Projects\HelloEEG\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Manjul\Downloads\mdt-r2_5_5\mdt-r2_5_5\ThinkGear SDK for .NET\Sample Projects\HelloEEG\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\Manjul\Downloads\mdt-r2_5_5\mdt-r2_5_5\ThinkGear SDK for .NET\Sample Projects\HelloEEG\obj\x86\Debug\ConsoleApplication.pdb
+C:\Users\Manjul\Downloads\mdt-r2_5_5\mdt-r2_5_5\ThinkGear SDK for .NET\Sample Projects\HelloEEG\bin\Debug\ConsoleApplication.exe
+C:\Users\Manjul\Downloads\mdt-r2_5_5\mdt-r2_5_5\ThinkGear SDK for .NET\Sample Projects\HelloEEG\bin\Debug\ConsoleApplication.pdb
+C:\Users\Manjul\Downloads\mdt-r2_5_5\mdt-r2_5_5\ThinkGear SDK for .NET\Sample Projects\HelloEEG\bin\Debug\ThinkGear.dll
+C:\Users\Manjul\Downloads\mdt-r2_5_5\mdt-r2_5_5\ThinkGear SDK for .NET\Sample Projects\HelloEEG\bin\Debug\Jayrock.Json.dll
+C:\Users\Manjul\Downloads\mdt-r2_5_5\mdt-r2_5_5\ThinkGear SDK for .NET\Sample Projects\HelloEEG\bin\Debug\NLog.dll
+C:\Users\Manjul\Downloads\mdt-r2_5_5\mdt-r2_5_5\ThinkGear SDK for .NET\Sample Projects\HelloEEG\bin\Debug\NLog.xml
+C:\Users\Manjul\Downloads\mdt-r2_5_5\mdt-r2_5_5\ThinkGear SDK for .NET\Sample Projects\HelloEEG\obj\x86\Debug\HelloEEG.csprojResolveAssemblyReference.cache
+C:\Users\Manjul\Downloads\mdt-r2_5_5\mdt-r2_5_5\ThinkGear SDK for .NET\Sample Projects\HelloEEG\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Manjul\Downloads\mdt-r2_5_5\mdt-r2_5_5\ThinkGear SDK for .NET\Sample Projects\HelloEEG\bin\Debug\Microsoft.WindowsCE.Forms.dll
+C:\Users\Manjul\Downloads\mdt-r2_5_5\mdt-r2_5_5\ThinkGear SDK for .NET\Sample Projects\HelloEEG\bin\Debug\InTheHand.Net.Personal.xml

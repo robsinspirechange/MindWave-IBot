@@ -1,0 +1,16 @@
+c:\users\manjul\documents\visual studio 2010\Projects\BluetoothConnect\BluetoothConnect\bin\Debug\BluetoothConnect.pdb
+c:\users\manjul\documents\visual studio 2010\Projects\BluetoothConnect\BluetoothConnect\bin\Debug\InTheHand.Net.Personal.dll
+c:\users\manjul\documents\visual studio 2010\Projects\BluetoothConnect\BluetoothConnect\bin\Debug\InTheHand.Net.Personal.xml
+c:\users\manjul\documents\visual studio 2010\Projects\BluetoothConnect\BluetoothConnect\obj\x86\Debug\BluetoothConnect.csprojResolveAssemblyReference.cache
+c:\users\manjul\documents\visual studio 2010\Projects\BluetoothConnect\BluetoothConnect\obj\x86\Debug\BluetoothConnect.pdb
+C:\Users\Manjul\Documents\Visual Studio 2010\Projects\BluetoothConnect\BluetoothConnect\bin\Debug\BluetoothConnect.dll.config
+C:\Users\Manjul\Documents\Visual Studio 2010\Projects\BluetoothConnect\BluetoothConnect\bin\Debug\BluetoothConnect.dll
+C:\Users\Manjul\Documents\Visual Studio 2010\Projects\BluetoothConnect\BluetoothConnect\obj\x86\Debug\BluetoothConnect.dll
+C:\Users\Manjul\Desktop\BluetoothConnect\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Manjul\Desktop\BluetoothConnect\obj\x86\Debug\BluetoothConnect.csprojResolveAssemblyReference.cache
+C:\Users\Manjul\Desktop\BluetoothConnect\bin\Debug\ConsoleApplication.exe
+C:\Users\Manjul\Desktop\BluetoothConnect\bin\Debug\ConsoleApplication.pdb
+C:\Users\Manjul\Desktop\BluetoothConnect\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Manjul\Desktop\BluetoothConnect\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Manjul\Desktop\BluetoothConnect\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\Manjul\Desktop\BluetoothConnect\obj\x86\Debug\ConsoleApplication.pdb
